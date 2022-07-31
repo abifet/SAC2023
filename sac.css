@@ -1,0 +1,97 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+font-family:'Ubuntu',Verdana, Helvetica, Arial, sans-serif;
+color:#545454;
+background:#fff;
+}
+
+b{font-size: 110%;}
+em{color: red;}
+
+a{
+text-decoration: none;
+font-weight: bold;
+color: #004570;
+}
+
+h1 {
+font-family: Amaranth, Arial, verdana, sans-serif;
+font-weight: bold;
+font-size: 200%;
+color: #999;
+}
+
+h1 a{
+text-decoration: none;
+color: #004570;
+}
+
+h2 {
+font-family: Amaranth, Arial, verdana, sans-serif;
+font-weight: normal;
+text-decoration: none;
+font-weight: bold;
+color: #ccc;
+}
+
+h3 {
+font-family:'Times New Roman', Times, serif;
+font-size:1.8em;
+font-weight:normal;
+line-height:120%;
+margin:0;
+border-bottom:1px solid #ccc;
+padding:0 0 0.1em 0;
+}
+
+.smallselected {
+font-family: verdana, sans-serif;
+font-weight: normal;
+color: #000000;
+}
+
+
+#maincontainer{
+}
+
+#topsection{
+}
+
+#topsection h1{
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+
+#contentcolumn{
+margin-right: 0px;
+}
+
+#leftcolumn{
+float: left;
+}
+
+#rightcolumn{
+float: right;
+width: 0px; 
+}
+
+#footer{
+clear: left;
+width: 100%;
+background: black;
+color: #FFF;
+text-align: center;
+padding: 4px 0;
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+
+
